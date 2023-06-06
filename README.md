@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Mukalingam<br>👀 I'm working as an Data Scientist - I at Spotflock Technologies LTD.<br>🌱 I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision and Chatbots<br>💞️ I’m looking to collaborate on the free lancing works of Data Science related Projects<br>📫 you can reach me out @LinkedIn - https://www.linkedin.com/in/muka-lingam-278526113/
+👋 Hi, I’m @Mukalingam<br>👀 I'm CEO and Co-Founder at Finbergg Technolgies Pvt Ltd .<br>🌱 I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI and Chatbots<br>💞️ I’m looking to collaborate on the free lancing works of Data Science related Projects<br>📫 you can reach me out @LinkedIn - https://www.linkedin.com/in/muka-lingam-278526113/
 
 
 ## 🌐 Socials:
