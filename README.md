@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Mukalingam<br>👀 I'm Senior Data Scientist working at Third Presence<br>🌱 I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision, LLM's, Generative AI and Chatbots<br>💞️ I’m looking to collaborate on the free lancing works of Data Science related Projects<br>📫 you can reach me out @LinkedIn - https://www.linkedin.com/in/muka-lingam-278526113/
+👋 Hi, I’m @Mukalingam<br>👀 I'm Lead AI Engineer at The Audience Street<br>🌱 I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision, LLM's, Generative AI and Chatbots<br>💞️ I’m looking to collaborate on the free lancing works of Data Science related Projects<br>📫 you can reach me out @LinkedIn - https://www.linkedin.com/in/muka-lingam-278526113/
 
 
 ## 🌐 Socials:
